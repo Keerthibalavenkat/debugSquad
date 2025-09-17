@@ -1,0 +1,19 @@
+.box1{
+     
+    /* border: 6px; */
+    border-style: dashed; 
+    
+    margin: 50px;
+    text-align:center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+ 
+.box2{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+
+
+}
